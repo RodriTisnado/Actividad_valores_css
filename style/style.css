@@ -1,0 +1,46 @@
+body {
+
+background-color: rgb(70, 122, 172);
+
+text-align: center;
+
+font-size: 30px;
+
+
+
+}
+.textogrande{
+    font-size: 25px;
+}
+
+
+h1{
+
+    color: rgb(0, 0, 0);
+}
+
+.cuadroUno{
+
+background-color: beige; 
+
+}
+
+.cuadroDos{
+
+
+background-color: cadetblue;
+
+}
+
+.cuadroTres{
+
+background-color: darkgray;
+
+}
+
+.cuadroCuatro{
+
+background-color: darkcyan;
+
+}
+
